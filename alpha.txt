@@ -1,2 +1,3 @@
 alpha branch text content
 alpha branch merged to master 07-04
+delete master.txt at 7-5
